@@ -17,6 +17,7 @@ network:
   allowed:
     - github.com
     - github.blog
+    - awesome-copilot.github.com
 ---
 
 # Update Mona's GitHub Info website
@@ -27,6 +28,7 @@ Web fetch these official sources:
 
 - https://github.blog/latest/
 - https://github.blog/changelog/
+- https://awesome-copilot.github.com/workflows/
 
 Update `site/content/github-info.md` with concise, practical information that
 helps developers learn GitHub faster. Mention the source for information from
